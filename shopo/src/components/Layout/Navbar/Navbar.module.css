@@ -1,0 +1,20 @@
+.navbar {
+  margin: 20px auto;
+}
+.navbar img {
+  justify-content: center;
+  -o-object-position: center;
+     object-position: center;
+}
+.navbar form {
+  justify-content: center;
+}
+.navbar .icons {
+  display: flex;
+  gap: 20px;
+}
+.navbar .icons svg {
+  width: 26px;
+  height: 50px;
+  cursor: pointer;
+}/*# sourceMappingURL=Navbar.module.css.map */
